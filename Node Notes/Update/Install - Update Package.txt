@@ -1,0 +1,7 @@
+sh: npm update [-g] npm
+sh: npm --version
+
+
+Install Angular CLI:
+sh: npm  install -g @angular-cli
+sh: ng --version
