@@ -1,0 +1,2 @@
+[Creae a new Angular Project]
+sh: ng new project-name
