@@ -1,2 +1,5 @@
 [Creae a new Angular Project]
 sh: ng new project-name
+
+[Start Serving Angular App]
+sh: ng serve

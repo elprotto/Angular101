@@ -1,0 +1,18 @@
+TypeScript: Super set of Javascript
+ - Strong typing
+ - Object-oriented features
+ - Compile-time errors
+ - Great tooling
+
+ [Install TypeScript Globally]
+ sh: npm install -g typescript
+ sh: tsc --version
+
+ [Create a file and open it with VScode]
+ sh: code main.ts
+
+ [Transpile TS code into Js code]
+ sh: tsc main.ts --> Result: main.js
+
+ [Run Js code in terminal]
+ sh: node main.js
