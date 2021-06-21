@@ -1,0 +1,2 @@
+[Create a component using Angular CLI]
+sh: ng g c component-name
